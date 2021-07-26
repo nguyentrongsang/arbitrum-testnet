@@ -1,3 +1,20 @@
+# Deployed Greeter contract, NS token to arbitrum testnet
+
+  Greeter contract: `0xe8a7f63786BBBFaE1092Df657e5Cf19733561596`
+  
+  NS token: `0x6A036D48083eE707c719BD3f8EB129306FCD7696`
+
+# Connecting to the chain
+
+If you're using Metamask, add a custom RPC network to connect to the Arbitrum testnet:
+
+    Network Name: Arbitrum Testnet
+    RPC URL: https://rinkeby.arbitrum.io/rpc
+    ChainID: 421611
+    Symbol: ETH
+    Block Explorer URL: https://rinkeby-explorer.arbitrum.io/#/
+Full guide at https://developer.offchainlabs.com/docs/public_testnet
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
