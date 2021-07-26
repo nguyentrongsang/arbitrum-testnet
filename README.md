@@ -1,4 +1,4 @@
-# Deployed Greeter contract, NS token to arbitrum testnet
+# Deployed Greeter contract, NS token to Arbitrum testnet
 
   Greeter contract: `0xe8a7f63786BBBFaE1092Df657e5Cf19733561596`
   
